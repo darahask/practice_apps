@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562104758301",
+    "firebase_url": "https://recorder-b6fd7.firebaseio.com",
+    "project_id": "recorder-b6fd7",
+    "storage_bucket": "recorder-b6fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562104758301:android:3ae96c4a3f2ca38e2a96f4",
+        "android_client_info": {
+          "package_name": "com.example.recapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562104758301-rv6p54l1p8bmva9kuobh35gba427ce7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Itibi7EqYfgc4x_CSEea54k87624ZOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562104758301-rv6p54l1p8bmva9kuobh35gba427ce7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
